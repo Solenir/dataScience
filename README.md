@@ -1,1 +1,1 @@
-# Scripts curso Fundamentos Python do DataScience Academy
+# Scripts do curso Fundamentos Python do DataScience Academy
